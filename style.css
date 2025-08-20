@@ -1,0 +1,64 @@
+.navbar-brand{
+    width: 10%;
+}
+.navbar{
+    background-color: rgb(179, 208, 135);
+}
+.nav-item .nav-link{
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: 15px;
+}
+.fa-bar{
+    color: rgb(29, 27, 27);
+}
+#home{
+    background-image: url(./sliced-fruits-berries-yellow-background.jpg);
+    width: 100vw;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+}
+.organic{
+    color: rgb(41, 31, 31);
+    text-shadow: 3px 4px 5px grey;
+}
+.aboutcontent h1{
+    color: darkolivegreen;
+     text-shadow: 3px 4px 5px grey;
+}
+.aboutcontent p{
+    line-height: 25px;
+}
+.d-block{
+    aspect-ratio: 3/2;
+}
+.fruits{
+    width: 60%;
+    aspect-ratio: 3/3;
+}
+.input-group{
+    background-color: gray;
+    color: black;
+    font-weight: 600;
+    border-radius: 10px;
+
+}
+#footer{
+    background-color: greenyellow;
+    color: gray;
+    padding: 2%;
+}
+.links p{
+    color: black;
+}
+.links p :hover{
+    text-decoration: 2px solid gray underline;
+}
+.links h5{
+    text-decoration: 2px solid black underline;
+}
+.fa-brands{
+    color: black;
+    font-size: 20px;
+}
